@@ -11,4 +11,4 @@ while True:
         print("diamant")
     else:
         display.show(Image.HEART_SMALL)
-        print("Zeig mich an, wenn pin0 nicht gedrückt wird!")
+        print("Zeig mich doch im Terminal an, sofern pin0 nicht gedrückt wird!")
