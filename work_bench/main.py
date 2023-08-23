@@ -11,4 +11,4 @@ while True:
         print("diamant")
     else:
         display.show(Image.HEART_SMALL)
-        print("zeig mich doch bitte an, wenn pin0 nicht gedrückt wird!")
+        print("Zeig mich an, wenn pin0 nicht gedrückt wird!")
