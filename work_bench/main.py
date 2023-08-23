@@ -7,7 +7,7 @@ while True:
     True oder False
     """
     if pin0.is_touched():
-        display.show(Image.HEART)
+        display.show(Image.DIAMOND)
         print("touched")
     else:
         display.show(Image.HEART_SMALL)
