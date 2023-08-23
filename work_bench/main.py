@@ -11,4 +11,4 @@ while True:
         print("touched")
     else:
         display.show(Image.HEART_SMALL)
-        print('not touched')
+        print("not touched")
